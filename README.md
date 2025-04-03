@@ -2,8 +2,6 @@
 
 Este repositório contém o conjunto de especificações e artefatos produzidos para a disciplina de **Engenharia de Requisitos e Software**. O objetivo deste projeto é documentar de forma clara e precisa os requisitos para o desenvolvimento de um sistema de software, abordando todas as etapas do processo de levantamento, análise, especificação e validação de requisitos.
 
-Observação: Estamos no artefato 15 e ainda desenvolvendo novos artefatos conforme formos estudando. Além disso, faremos apenas até o artefato 23, pois é o proposto pelas duas matérias (Engenharia de Software e Engenharia de Requisitos).
-
 ## Conteúdo
 
 * Documentação completa do processo de engenharia de requisitos.
